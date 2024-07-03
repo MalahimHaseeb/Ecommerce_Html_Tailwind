@@ -11,7 +11,7 @@ https://malahimhaseeb.github.io/Ecommerce_Html_Tailwind/
 
 ## Tech Stack
 
-**Client:** index, TailwindCSS
+**Client:** Html, TailwindCSS
 
 
 
